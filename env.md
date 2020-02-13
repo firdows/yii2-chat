@@ -18,6 +18,21 @@
         sudo apt-get install php7.2-xsl
         sudo apt-get install php7.2-xml
         sudo apt-get install php-mbstring
+        sudo apt-get install php7.2-curl
+        
+    ```
+    
+## Install Mysql & phpmyadmin
+
+    ``` 
+        sudo apt install -y mysql-server
+        sudo service mysql status
+        sudo mysql -u root
+        sudo mysql -u admin -p
+        
+        sudo apt-get purge phpmyadmin
+        sudo apt install phpmyadmin php-mbstring php-gettext
+        sudo ln -s /usr/share/phpmyadmin/ ~/environment/
     ```
 
 ## Install Yii

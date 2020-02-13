@@ -1,0 +1,493 @@
+    1  git -v
+    2  git 
+    3  ls
+    4  pwd
+    5  composer
+    6  sudo su
+    7  composer install
+    8  sudo apt-get install php7.2-curl
+    9  composer install
+   10  ./yii init
+   11  php yii init
+   12  pwd
+   13  chmod -R u=rwx,g=rwx,o=rwx /home/ubuntu/environment/
+   14  chmod -R u=rwx,g=rwx,o=rwx /home/ubuntu/environment
+   15  sudu chmod -R u=rwx,g=rwx,o=rwx /home/ubuntu/environment/
+   16  sudo chmod -R u=rwx,g=rwx,o=rwx /home/ubuntu/environment/
+   17  node --version
+   18  npm --version
+   19  tt
+   20  mysql-ctl install
+   21  phpmyadmin-ctl install
+   22  exit
+   23  mysql-ctl install
+   24  get-apt update
+   25  apt-get update
+   26  mysql-ctl install
+   27  sudo mysql-ctl install
+   28  sudo mysqli-ctl install
+   29  sudo apt -y update
+   30  mysql-ctl install
+   31  sudo apt install -y mysql-server
+   32  mysql
+   33  mysql-ctl start
+   34  mysql-ctl intall
+   35  sudo mysql-ctl intall
+   36  sudo apt install -y mysql-ctl
+   37  sudo apt install mysql-ctl
+   38  sudo service mysql status
+   39  sudo mysql -u root
+   40  sudo mysql -u admin -p
+   41  sudo apt install phpmyadmin php-mbstring php-gettext
+   42  sudo apt install phpmyadmin php-mbstring php-gettext
+   43  ls /etc/phpmyadmin/
+   44  sudo apt-get purge phpmyadmin
+   45  sudo apt install phpmyadmin php-mbstring php-gettext
+   46  ls /var/www/html/
+   47  ls /var/www/html/
+   48  sudo ln -s /usr/share/phpmyadmin/ ~/environment/
+   49  /etc/phpmyadmin/config.inc.php .
+   50  nano /etc/phpmyadmin/config.inc.php
+   51  vi /etc/phpmyadmin/config.inc.php
+   52  vi /etc/phpmyadmin/config.inc.php
+   53  sudo vi /etc/phpmyadmin/config.inc.php
+   54  sudo ln -s /usr/share/phpmyadmin/ /var/www/html/
+   55  sudo ln -s /usr/share/phpmyadmin/ ~/environment/
+   56  ls /var/www/html
+   57  cd /etc/apache2/sites-available
+   58  ls
+   59  cat 000-default.conf 
+   60  pwd
+   61  vi 000-default.conf 
+   62  sudo vi 000-default.conf 
+   63  sudo apache2 restart
+   64  sudo serviec apache2 restart
+   65  sudo service apache2 restart
+   66  ls
+   67  cd /etc/apache2/
+   68  ls
+   69  sudo vi apache2.conf 
+   70  sudo service apache2 restart
+   71  sudo vi apache2.conf 
+   72  sudo service apache2 restart
+   73  cat /var/log/apache2/error.log 
+   74  sudo vi apache2.conf 
+   75  sudo a2enmod rewrite
+   76  sudo service apache2 restart
+   77  git
+   78  cd .
+   79  cd ..
+   80  cd ~/environment/
+   81  cd nodejs/
+   82  git clone https://github.com/firdows/NodeBasic.git
+   83  ls
+   84  cd NodeBasic/
+   85  npm install
+   86  npm start
+   87  npm install -g nodemon
+   88  npm start
+   89  npm install -g express-generator
+   90  cd ..
+   91  express --view=ejs NodeTest
+   92  cd NodeTest/
+   93  npm install
+   94  npm start
+   95  node ./bin/www  
+   96  node ./bin/www  
+   97  ls ./bin/www 
+   98  npm start
+   99  cd /etc/apache2/
+  100  ls
+  101  cd sites-available/
+  102  ls
+  103  cd ..
+  104  cd sites-enabled/
+  105  ls
+  106  cd ..
+  107  cd conf-available/
+  108  ls
+  109  cd /etc/httpd/conf
+  110  ls
+  111  cd /etc
+  112  ls
+  113  cd hosts
+  114  ls
+  115  cd ..
+  116  cd /etc/apache2/httpd.conf
+  117  cat /etc/apache2/httpd.conf
+  118  cat /etc/httd
+  119  cat /etc/httpd
+  120  cd /etc/httpd
+  121  cd /etc/apache2/
+  122  cat apache2.conf 
+  123  cd sites-available/
+  124  ls
+  125  cat 000-default.conf 
+  126  cd nodejs/
+  127  cat /etc/apcache2/site-available/000-default.conf
+  128  cat /etc/apache2/sites-available/000-default.conf 
+  129  sudo vi mySite.conf
+  130  sudo a2ensite mySite.conf
+  131  sudo a2ensite 000-default.conf 
+  132  sudo service apache restart
+  133  sudo service apache2 restart
+  134  sudo service apache2 restart
+  135  sudo service apache2 staus
+  136  sudo service apache2 statsu
+  137  sudo service apache2 status
+  138  npm start
+  139  node ./bin/www
+  140  sudo a2desite mySite.conf
+  141  sudo a2dissite mySite.conf 
+  142  sudo service apache2 restart
+  143  cat /etc/apache2/sites-available/mySite.conf 
+  144  sudo vi /etc/apache2/sites-available/mySite.conf 
+  145  sudo a2ensite mySite.conf
+  146  sudo a2ensite 000-default.conf 
+  147  sudo service apache2 restart
+  148  cat /etc/apache2/sites-available/mySite.conf 
+  149  sudo a2dissite mySite.conf 
+  150  sudo service apache2 restart
+  151  cat /etc/apache2/apache2.conf 
+  152  sudo service apache2 restart
+  153  sudo a2enmod proxy
+  154  sudo a2enmod proxy_http
+  155  sudo service apache2 restart
+  156  sudo service apache2 restart
+  157  sudo vi /etc/apache2/apache2.conf 
+  158  sudo vi /etc/apache2/apache2.conf 
+  159  sudo vi /etc/apache2/apache2.conf 
+  160  sudo service apache2 restart
+  161  npm start
+  162  cat /home/ubuntu/.npm/_logs/2020-01-22T06_26_25_606Z-debug.log
+  163  lsof -i tcp:8080
+  164  sudo vi /etc/apache2/apache2.conf 
+  165  sudo service apache2 restart
+  166  cd ..
+  167  cd test/
+  168  npm intall
+  169  npm install
+  170  sudo service apache2 restart
+  171  cat /etc/apache2/sites-available/000-default.conf 
+  172  sudo vi /etc/apache2/sites-available/mySite.conf 
+  173  sudo a2ensite /etc/apache2/sites-available/mySite.conf
+  174  sudo a2ensite /etc/apache2/sites-available/mySite.conf
+  175  cd /etc/apache2/sites-available/
+  176  sudo a2ensite mySite.conf 
+  177  sudo service apache2 restart
+  178  sudo service apache2 restart
+  179  sudo vi mySite.conf 
+  180  sudm mv mySite.conf mySite.conf 
+  181  ls
+  182  sudo mv mySite.conf mySite.conf 
+  183  ls
+  184  sudo mv mySite.conf mySite.conf 
+  185  ls
+  186  sudo mv -r mySite.conf mySite.conf 
+  187  sudo mv -f mySite.conf mySite.conf 
+  188  sudo mv -f mySite.conf mySite.conf 
+  189  sudo mv -f mySite.conf mySite1.conf 
+  190  ls
+  191  systemctl status apache2.service
+  192  sudo service apache2 restart
+  193  sudo a2ensite mySite.conf 
+  194  sudo service apache2 restart
+  195  npm start
+  196  sudo a2ensite mySite.conf 
+  197  sudo service apache2 restart
+  198  sudo service apache2 restart
+  199  sudo service apache2 restart
+  200  sudo service apache2 restart
+  201  sudo vi /etc/apache2/apache2.conf 
+  202  sudo service apache2 restart
+  203  sudo service apache2 restart
+  204  sudo a2ensite mySite.conf 
+  205  sudo a2ensite 000-default.conf 
+  206  sudo service apache2 restart
+  207  sudo service apache2 restart
+  208  sudo vi mySite.conf
+  209  sudo cp -r mySite.conf mySite2.conf
+  210  ls
+  211  sudo service apache2 restart
+  212  sudo service apache2 restart
+  213  sudo service apache2 restart
+  214  sudo vi mySite.conf
+  215  sudo cp -r mySite2.conf mySite.conf
+  216  sudo service apache2 restart
+  217  sudo vi /etc/apache2/apache2.conf 
+  218  httpd -S
+  219  apachectl -S
+  220  cat /etc/apache2/sites-available/000-default.conf 
+  221  sudo a2dissite 000-default.conf 
+  222  apachectl -S
+  223  sudo a2ensite 000-default.conf 
+  224  apachectl -S
+  225  sudo a2dissite 000-default.conf 
+  226  sudo service apache2 restart
+  227  apachectl -S
+  228  apache2ctl -S
+  229  cat /etc/apache2/sites-available/000-default.conf 
+  230  sudo service apache2 restart
+  231  apache2ctl -S
+  232  cd /etc/apache2/
+  233  ls
+  234  cat apache2.conf 
+  235  sudo service apache2 restart
+  236  apache2ctl -S
+  237  sudo a2dissite 000-default.conf 
+  238  sudo a2ensite 000-default.conf 
+  239  sudo service apache2 restart
+  240  sudo service apache2 restart
+  241  sudo service apache2 restart
+  242  cat /var/log/apache2/error.log 
+  243  cat /var/log/apache2/error.log 
+  244  sudo service apache2 restart
+  245  sudo service apache2 restart
+  246  sudo service apache2 restart
+  247  sudo service apache2 restart
+  248  sudo service apache2 restart
+  249  sudo service apache2 restart
+  250  apache2ctl -S
+  251  sudo service apache2 restart
+  252  sudo vi mySite.conf
+  253  sudo vi apache2.conf 
+  254  npm start
+  255  cd /etc/apache2/sites-available/
+  256  ls
+  257  cd /etc/apache2/
+  258  ls
+  259  cat apache2.conf 
+  260  sudo service apache2 restart
+  261  sudo service apache2 restart
+  262  apache2ctl -s
+  263  apache2ctl -l
+  264  apache2ctl -L
+  265  apache2ctl -S
+  266  cd app
+  267  npm start
+  268  cd test/
+  269  npm start
+  270  cd ..
+  271  cd test/
+  272  sudo service apache2 restart
+  273  sudo service apache2 restart
+  274  sudo service apache2 restart
+  275  sudo service apache2 restart
+  276  cd /etc/apache2/sites-available/
+  277  sudo a2dissite mySite.conf 
+  278  sudo service apache2 restart
+  279  cd /etc/apache2/sites-available/
+  280  sudo service apache2 restart
+  281  sudo a2ensite mySite.conf 
+  282  sudo service apache2 restart
+  283  sudo a2dissite 000-default.conf 
+  284  sudo service apache2 restart
+  285  apache2ctl -S
+  286  apache2ctl -S
+  287  sudo service apache2 restart
+  288  sudo service apache2 restart
+  289  sudo service apache2 restart
+  290  apache2ctl -S
+  291  apache2ctl -S
+  292  sudo service apache2 restart
+  293  sudo vi apache2.conf 
+  294  sudo cp -f apache2.conf  apache2-1.conf 
+  295  ls
+  296  sudo service apache2 restart
+  297  pwd
+  298  cd /var/www/html/
+  299  ls
+  300  sudo service apache2 restart
+  301  sudo service apache2 restart
+  302  apache2ctl -S
+  303  sudo vi mySite.conf 
+  304  apache2ctl -S
+  305  sudo service apache2 restart
+  306  sudo vi apache2.conf 
+  307  sudo service apache2 restart
+  308  sudo service apache2 restart
+  309  apache2ctl -S
+  310  sudo a2ensite 000-default.conf 
+  311  apache2ctl -S
+  312  sudo service apache2 restart
+  313  apache2ctl -S
+  314  apache2ctl -S
+  315  sudo service apache2 restart
+  316  sudo service apache2 restart
+  317  sudo service apache2 restart
+  318  sudo service apache2 restart
+  319  sudo vi 000-default.conf 
+  320  sudo cp 000-default.conf 000-default1.conf 
+  321  ls
+  322  sudo service apache2 restart
+  323  sudo a2dissite mySite.conf 
+  324  sudo service apache2 restart
+  325  apache2ctl -S
+  326  apache2ctl -S
+  327  sudo service apache2 restart
+  328  sudo service apache2 restart
+  329  sudo service apache2 restart
+  330  sudo vi apache2.conf 
+  331  npm start
+  332  cd ..
+  333  ls
+  334  cd NodeTest/
+  335  npm start
+  336  cd ..
+  337  cd NodeBasic/
+  338  npm start
+  339  node ./bin/www
+  340  sudo vi mySite.conf 
+  341  sudo vi 000-default.conf 
+  342  cd ..
+  343  npm init
+  344  cd chat/
+  345  npm install express
+  346  node index.js 
+  347  npm install socket.io
+  348  cd nodejs/
+  349  cd chat/
+  350  npm start
+  351  npm install
+  352  npm start
+  353  npm start
+  354  npm start
+  355  npm install socket.io
+  356  npm start
+  357  node index.js
+  358  node index.js
+  359  node index.js
+  360  nodemon ./r.js
+  361  nodemon ./index.js
+  362  nodemon ./index.js
+  363  nodemon ./index.js
+  364  nodemon ./index.js
+  365  nodemon ./index.js
+  366  nodemon ./index.js
+  367  nodemon ./index.js
+  368  nodemon ./index.js
+  369  nodemon ./index.js
+  370  cd nodejs/chat/
+  371  nodemon ./index.js
+  372  cd nodejs/chat/
+  373  nodemon ./index.js
+  374  sudo apt-get install upstart
+  375  sudo apt-get update
+  376  sudo apt-get install upstart
+  377  sudo nano /lib/systemd/system/hello_env.service
+  378  ls /lib/systemd/system
+  379  ls /etc/init
+  380  cd nodejs/chat/
+  381  pwd
+  382  sudo vi /etc/init/app.conf
+  383  ls /etc/init
+  384  cat /etc/init/mysql.conf 
+  385  cd /var/log/
+  386  ls
+  387  sudo reboot
+  388  cd /var/log/
+  389  ls
+  390  ls -la
+  391  cd /lib/systemd/system
+  392  ls
+  393  sudo systemctl enable app_node_env.service
+  394  sudo vi /lib/systemd/system/app_node_env.service
+  395  cd /var/log/
+  396  ls
+  397  cd /lib/systemd/system
+  398  ls
+  399  sudo systemctl start app_node_env.service
+  400  sudo systemctl start app_node_env.service
+  401  sudo journalctl -u app_node_env.service
+  402  sudo vi app_node_env.service 
+  403  sudo journalctl -u app_node_env.service
+  404  sudo systemctl enable app_node_env.service
+  405  sudo journalctl -u app_node_env.service
+  406  sudo systemctl start app_node_env.service
+  407  systemctl status app_node_env.service
+  408  sudo vi app_node_env.service 
+  409  sudo systemctl enable app_node_env.service
+  410  sudo journalctl -u app_node_env.service
+  411  systemctl status app_node_env.service
+  412  sudo systemctl start app_node_env.service
+  413  systemctl status app_node_env.service
+  414  sudo journalctl -u app_node_env.service
+  415  sudo vi app_node_env.service 
+  416  sudo systemctl enable app_node_env.service
+  417  sudo journalctl -u app_node_env.service
+  418  sudo systemctl start app_node_env.service
+  419  cd /etc/systemd/system/
+  420  sudo systemctl daemon-reload
+  421  systemctl enable app_node_env
+  422  cd /etc/systemd/system/
+  423  ]
+  424  ls /etc/initssudo
+  425  sudo  systemctl enable app_node_env
+  426  cd /etc/systemd/system/
+  427  sudo systemctl enable app_node_env
+  428  sudo systemctl start app_node_env
+  429  sudo vi app_node_env.service 
+  430  node nodejs/chat/index.js 
+  431  nodemon nodejs/chat/index.js 
+  432  nodemon nodejs/chat/index.js 
+  433  nodemon nodejs/chat/index.js 
+  434  node nodejs/chat/index.js 
+  435  node nodejs/chat/index.js 
+  436  node nodejs/chat/index.js 
+  437  composer require wisembly/elephant.io
+  438  cd project/
+  439  composer require wisembly/elephant.io
+  440  composer require wisembly/elephant.io 
+  441  free -m
+  442  watch free -m
+  443  df -h 
+  444  composer --memory=1G update
+  445  composer require wisembly/elephant.io 
+  446  git clone https://github.com/firdows/node-serv-chat.git
+  447  cd chat/
+  448  git status
+  449  git add .
+  450  git commit -am "Newup"
+  451  sdf
+  452  git push -u origin master 
+  453  git clone https://github.com/firdows/yii2-chat.git
+  454  git status
+  455  git status
+  456  git add .
+  457  git commit -am "First Up"
+  458  git push -u origin master 
+  459  cat /etc/apache2/sites-available/000-default.conf 
+  460  df
+  461  df
+  462  ls
+  463  pwd
+  464  pws
+  465  pws
+  466  ls
+  467  ls -a
+  468  git
+  469  git status
+  470  git status
+  471  ls
+  472  cat ~/.ssh/id_ras.pub
+  473  ls ~/.ssh/
+  474  ls
+  475  mkdir .ssh
+  476  ls
+  477  cat ~/.ssh/authorized_keys 
+  478  cat ~/.ssh/authorized_keys 
+  479  vi ~/.ssh/authorized_keys 
+  480  ls
+  481  cat ~/.ssh/authorized_keys 
+  482  clear
+  483  cat ~/.ssh/authorized_keys 
+  484  sudo su
+  485  exit
+  486  history
+  487  sudo su
+  488  l
+  489  ls
+  490  cd 
+  491  ls
+  492  history
+  493  history > history_for_ubuntu.txt
