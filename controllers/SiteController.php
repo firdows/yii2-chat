@@ -125,4 +125,8 @@ class SiteController extends Controller
     {
         return $this->render('about');
     }
+    
+    public function actionTod(){
+        return $this->render('tod');
+    }
 }
